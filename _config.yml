@@ -41,3 +41,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+production_url : http://jingoat.github.io
+BASE_PATH : /jekyll-demo
